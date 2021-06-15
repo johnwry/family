@@ -3,4 +3,4 @@ title: Welcome!
 layout: home
 ---
 
-<img src="/media/cochabamba.jpeg" width="100%">
+<img src="{{site.baseurl}}/media/cochabamba.jpeg" width="100%">
