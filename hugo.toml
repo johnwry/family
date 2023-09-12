@@ -1,9 +1,9 @@
-baseURL = 'http://johnwry.github.io/'
+baseURL = 'http://thewrys.redbiblica.org/'
 languageCode = 'en-us'
 title = 'The Wry Family'
 ShowBreadCrumbs = "true"
 theme = "paige"
-#themesDir = "/"
+# themesDir = "/"
 PublishDir = "docs"
 
 copyright = "© The Wrys"
