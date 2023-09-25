@@ -23,52 +23,52 @@ url = "/"
 weight = 10
 
 [[languages.en.menu.main]]
-identifier = "content"
-name = "Content"
-url = "/content/"
+identifier = "News"
+name = "News"
+url = "/News/"
 weight = 20
 
-[[languages.en.menu.main]]
-identifier = "layouts"
-name = "Layouts"
-url = "/layouts/"
-weight = 30
+#[[languages.en.menu.main]]
+#identifier = "layouts"
+#name = "Layouts"
+#url = "/layouts/"
+#weight = 30
+
+#[[languages.en.menu.main]]
+#identifier = "shortcodes"
+#name = "Shortcodes"
+#url = "/shortcodes/"
+#weight = 40
+
+#[[languages.en.menu.main]]
+#identifier = "customization"
+#name = "Customization"
+#url = "/customization/"
+#weight = 50
+
+#[[languages.en.menu.main]]
+#identifier = "authors"
+#name = "Authors"
+#url = "/authors/"
+#weight = 60
 
 [[languages.en.menu.main]]
-identifier = "shortcodes"
-name = "Shortcodes"
-url = "/shortcodes/"
-weight = 40
+#identifier = "Articles"
+#name = "Articles"
+#url = "/articles/"
+#weight = 70
 
-[[languages.en.menu.main]]
-identifier = "customization"
-name = "Customization"
-url = "/customization/"
-weight = 50
+#[[languages.en.menu.main]]
+#identifier = "categories"
+#name = "Categories"
+#url = "/categories/"
+#weight = 80
 
-[[languages.en.menu.main]]
-identifier = "authors"
-name = "Authors"
-url = "/authors/"
-weight = 60
-
-[[languages.en.menu.main]]
-identifier = "series"
-name = "Series"
-url = "/series/"
-weight = 70
-
-[[languages.en.menu.main]]
-identifier = "categories"
-name = "Categories"
-url = "/categories/"
-weight = 80
-
-[[languages.en.menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "/tags/"
-weight = 90
+#[[languages.en.menu.main]]
+#identifier = "tags"
+#name = "Tags"
+#url = "/tags/"
+#weight = 90
 
 [[languages.en.menu.main]]
 identifier = "search"
@@ -92,6 +92,9 @@ startlevel = 2
 
 [outputs]
 home = ["html", "json", "rss"]
+
+[params]
+    custom_css = ["css/custom.css"]
 
 [params.authors.will-faught]
 name = "The Wrys"
