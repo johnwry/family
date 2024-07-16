@@ -25,6 +25,7 @@ title: "The Wry Family"
     <div class="justify-content-center row">
         <div class="col col-auto col-lg-7 px-0">
             <p class="lead text-center">We live in a time where who Jesus is, the cross, God and salvation are known but widely misunderstood. A christian is someone who has raised his hand in a religious service, prayed a prayer or grown up in a christian home. None of these things have to do with the Gospel. The Gospel has become a foggy word meaning "do good to others" and has ceased to mean anything regarding only the sufficient work of Christ on our behalf by paying the necessary payment of death for our sin.</p>
+            <p>Contact us: johnwry@gmail.com</p>
         </div>
     </div>
 </div>
