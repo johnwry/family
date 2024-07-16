@@ -1,10 +1,10 @@
-baseURL = 'http://thewrys.redbiblica.org/'
+baseURL = 'https://thewrys.redbiblica.org/'
 languageCode = 'en-us'
 title = 'The Wry Family'
 ShowBreadCrumbs = "true"
 theme = "paige"
 # themesDir = "/"
-PublishDir = "docs"
+publishDir = "docs"
 
 copyright = "© The Wrys"
 enablerobotstxt = true
