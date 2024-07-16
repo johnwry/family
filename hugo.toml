@@ -4,7 +4,7 @@ title = 'The Wry Family'
 ShowBreadCrumbs = "true"
 theme = "paige"
 # themesDir = "/"
-publishDir = "/"
+publishDir = "docs"
 
 copyright = "© The Wrys"
 enablerobotstxt = true
