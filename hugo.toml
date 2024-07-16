@@ -2,7 +2,7 @@ baseURL = 'https://thewrys.redbiblica.org/'
 languageCode = 'en-us'
 title = 'The Wry Family'
 ShowBreadCrumbs = "true"
-theme = "keepit"
+theme = "paige"
 #themesDir = "/themes"
 publishDir = "docs"
 
